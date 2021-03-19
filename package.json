@@ -10,8 +10,8 @@
     "tsc": "tsc -p .",
     "rollup": "rollup -c"
   },
-  "main": "./dist/index.cjs.js",
-  "module": "./dist/index.es.js",
+  "main": "./dist/index.js",
+  "module": "./dist/index.js.map",
   "types": "./dist/index.d.ts",
   "files": [
     "dist/"
