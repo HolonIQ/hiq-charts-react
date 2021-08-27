@@ -1,7 +1,7 @@
 {
   "name": "hiq-charts-react",
   "sideEffects": false,
-  "version": "0.0.7",
+  "version": "0.1.0",
   "description": "React specific wrapper for hiq-charts",
   "scripts": {
     "build": "npm run clean && npm run compile",
